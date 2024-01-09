@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912639416863",
+    "firebase_url": "https://flutter-curso-39e90.firebaseio.com",
+    "project_id": "flutter-curso-39e90",
+    "storage_bucket": "flutter-curso-39e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912639416863:android:22407198ca56bb01df132a",
+        "android_client_info": {
+          "package_name": "com.garguidev.pushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912639416863-epc1guffrg9gd5h23nls2qvdevsjuetg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfoWq6gmE8dCK3Fff6fQFHeha03ginUiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912639416863-epc1guffrg9gd5h23nls2qvdevsjuetg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
